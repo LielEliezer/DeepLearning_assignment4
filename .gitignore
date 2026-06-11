@@ -1,0 +1,5 @@
+*.arff
+*__pycache__/
+__pycache__/*
+*.pth
+*.png
